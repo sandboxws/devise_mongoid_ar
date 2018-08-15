@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: devise_mongoid_ar_develompent
+      hosts:
+        - localhost:27017
